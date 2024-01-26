@@ -1,0 +1,11 @@
+.slider img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.tns-nav {
+    display: none;
+}
+.controls {
+    margin: 0;
+}
